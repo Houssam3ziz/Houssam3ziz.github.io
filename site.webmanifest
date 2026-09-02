@@ -1,0 +1,9 @@
+{
+  "name": "Houssam Aziz — Mobile Software Engineer",
+  "short_name": "Houssam Aziz",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07080c",
+  "theme_color": "#07080c",
+  "icons": [{ "src": "assets/img/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }]
+}
